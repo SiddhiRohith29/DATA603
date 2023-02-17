@@ -65,29 +65,29 @@
 
 # 2)  6 'V's of Big Data (define each)
 
-    **Volume:** This describes the enormous amount of data being produced
+   *Volume:* This describes the enormous amount of data being produced
     and gathered. Terabytes to petabytes of data can be considered part
     of the "big data" category.
 
-    **Velocity:** This describes how quickly data is created, gathered, and
+   *Velocity:* This describes how quickly data is created, gathered, and
     processed. High-speed data streams that need to be processed
     instantly or almost instantly are a common feature of big data.
 
-    **Variety:** This describes the wide range of data sources and types
+   *Variety:* This describes the wide range of data sources and types
     that make up big data. There are many different places where data
     can come from, including structured, semi-structured, and
     unstructured data.
 
-    **Veracity:** This is used to describe the accuracy and dependability of
+   *Veracity:* This is used to describe the accuracy and dependability of
     data. Big data is characterized by data that is frequently
     erroneous, inconsistent, or incomplete, which can make it
     challenging to analyze.
 
-    **Variability:** This describes how much the data changes over time. Big
+   *Variability:* This describes how much the data changes over time. Big
     data is characterized by data that is always in flux, making it
     challenging to analyze and derive actionable insights.
 
-    **Value:** This is the capacity to derive benefits and insights from
+   *Value:* This is the capacity to derive benefits and insights from
     large amounts of data. Big data's value lies in its capacity to
     reveal trends and insights that can guide decision-making and
     promote business expansion.
@@ -96,65 +96,65 @@
 
     There are several stages in the big data process, including:
 
-    Data Acquisition: Gathering data is the first step in the big data
+   *Data Acquisition:* Gathering data is the first step in the big data
     process. In order to do this, it may be necessary to collect data
     from a variety of sources, both internal and external, including
     social media, customer interactions, sensors, and other data
     streams.
 
-    Data cleaning: Data cleaning is the second stage. This entails
+   *Data cleaning:* Data cleaning is the second stage. This entails
     purging the data set of errors, duplicates, inconsistencies, and
     other unimportant information. Data cleaning makes sure the
     information is reliable and accurate for analysis.
 
-    Data integration: It is the third stage, where data from various
+   *Data integration:* It is the third stage, where data from various
     sources and formats are combined to create a single data set. To
     make sure that the analysis includes all pertinent data, it is
     essential to complete this phase.
 
-    Data analysis: Following processing, the data can be examined. In
+   *Data analysis:* Following processing, the data can be examined. In
     order to draw conclusions and patterns from the data, this may
     entail using statistical and machine learning techniques.
 
-    Data interpretation: It uses what is known the outcomes of the data
+   *Data interpretation:* It uses what is known the outcomes of the data
     analysis into an understandable and comprehensible format. Making
     graphs, charts, and other visual representations of the data may
     fall under this category.
 
-4)  Challenges in Big Data analysis (discuss each)
+# 4)  Challenges in Big Data analysis (discuss each)
 
-    1.  Data representation: The type, structure, semantics,
+   *1.  Data representation:* The type, structure, semantics,
         organization, granularity, and accessibility of many datasets
         are heterogeneous to varying degrees. Data representation aims
         to increase the meaning of data for user interpretation and
         computer analysis. Data structure, class, and type must be
         reflected in efficient representation in addition to integrated
 
-    2.  Data compression and redundancy reduction are efficient ways to
+   2.  Data Compression and redundancy reduction are efficient ways to
         lower system indirect costs without compromising the data's
         potential value.
 
-    3.  Data lifecycle management: To determine which data should be
+   *3.  Data lifecycle management:* To determine which data should be
         stored and which data should be discarded, a data importance
         principle relating to the analytical value should be developed.
 
-    4.  Analytical mechanism: The big data analytical system must
+   *4.  Analytical mechanism:* The big data analytical system must
         quickly process enormous amounts of heterogeneous data.
 
-    5.  Data Confidentiality: To maintain and analyze enormous datasets,
+   *5.  Data Confidentiality:* To maintain and analyze enormous datasets,
         most big data service providers must rely on tools or
         specialists, which raises the possibility of safety risks.
 
-    6.  Energy Management: As data volume and analytical requirements
+   *6.  Energy Management:* As data volume and analytical requirements
         rise, it is inevitable that processing, storing, and
         transmitting bigdata will use an increasing amount of
         electricity.
 
-    7.  Expendability and Scalability: Both current and upcoming data
+   *7.  Expendability and Scalability:* Both current and upcoming data
         sets must be supported by the analytical system. The analytical
         algorithm must be able to handle datasets that are expanding and
         becoming more complex.
 
-    8.  Collaboration: Big data analysis is an interdisciplinary field
+   *8.  Collaboration:* Big data analysis is an interdisciplinary field
         of study that requires assistance and teamwork to fully realize
         its potential.
