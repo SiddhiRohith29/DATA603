@@ -20,7 +20,7 @@
         batch big data processing to examine patient records, which
         include medical histories, lab results, and demographic data.
 
-    ## (ii) Streaming Big data:
+   ## (ii) Streaming Big data:
 
          The term "streaming big data" describes the real-time
          processing and analysis of continuously generated data, such as
@@ -34,7 +34,7 @@
          analyzed using streaming big data processing to spot trends,
          pinpoint influencers, and boost customer engagement.
 
-    (iii) Graph Big data:
+   ## (iii) Graph Big data:
 
           The processing and analysis of data represented in a graph or
           network structure is referred to as "graph big data."
@@ -47,7 +47,7 @@
           graph big data processing can find patterns and relationships
           that might point to fraudulent activity.
 
-    (iv) Spatio-temporal Big data:
+   ## (iv) Spatio-temporal Big data:
 
          Big data processing and analysis that incorporates location and
          time information is referred to as spatiotemporal big data.
@@ -63,36 +63,36 @@
          this information can help with transportation planning, energy
          efficiency, and sustainability initiatives.
 
-2)  6 'V's of Big Data (define each)
+# 2)  6 'V's of Big Data (define each)
 
-    Volume: This describes the enormous amount of data being produced
+    **Volume:** This describes the enormous amount of data being produced
     and gathered. Terabytes to petabytes of data can be considered part
     of the "big data" category.
 
-    Velocity: This describes how quickly data is created, gathered, and
+    **Velocity:** This describes how quickly data is created, gathered, and
     processed. High-speed data streams that need to be processed
     instantly or almost instantly are a common feature of big data.
 
-    Variety: This describes the wide range of data sources and types
+    **Variety:** This describes the wide range of data sources and types
     that make up big data. There are many different places where data
     can come from, including structured, semi-structured, and
     unstructured data.
 
-    Veracity: This is used to describe the accuracy and dependability of
+    **Veracity:** This is used to describe the accuracy and dependability of
     data. Big data is characterized by data that is frequently
     erroneous, inconsistent, or incomplete, which can make it
     challenging to analyze.
 
-    Variability: This describes how much the data changes over time. Big
+    **Variability:** This describes how much the data changes over time. Big
     data is characterized by data that is always in flux, making it
     challenging to analyze and derive actionable insights.
 
-    Value: This is the capacity to derive benefits and insights from
+    **Value:** This is the capacity to derive benefits and insights from
     large amounts of data. Big data's value lies in its capacity to
     reveal trends and insights that can guide decision-making and
     promote business expansion.
 
-3)  Phases of Big Data analysis (discuss each)
+# 3)  Phases of Big Data analysis (discuss each)
 
     There are several stages in the big data process, including:
 
