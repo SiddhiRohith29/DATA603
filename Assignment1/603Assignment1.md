@@ -1,11 +1,11 @@
-1)  Big Data with example and types
+# 1)  Big Data with example and types
 
     Big data is a term used to describe data that is high volume, high
     velocity, and/or high variety; requires new technologies and
     techniques to capture, store, and analyze it; and is used to support
     and optimize processes as well as to improve decision-making.
 
-    (i) Batch Big data:
+   ## (i) Batch Big data:
 
         Batch big data refers to the processing of enormous amounts of
         data in groups or sets at regular intervals, typically over the
@@ -20,7 +20,7 @@
         batch big data processing to examine patient records, which
         include medical histories, lab results, and demographic data.
 
-    (ii) Streaming Big data:
+    ## (ii) Streaming Big data:
 
          The term "streaming big data" describes the real-time
          processing and analysis of continuously generated data, such as
